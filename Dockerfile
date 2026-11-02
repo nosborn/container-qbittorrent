@@ -1,4 +1,4 @@
-FROM alpine:3.24.2
+FROM alpine:3.24.3
 
 ENV HOME=/config
 ENV XDG_CONFIG_HOME=/config
